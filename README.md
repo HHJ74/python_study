@@ -8,7 +8,6 @@
 <br>
 
 ### toy models
-<br>
 
 1. 매출 평균<br>
 2. 숫자 맞추기<br>
